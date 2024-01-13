@@ -1,0 +1,12 @@
+footer {
+position: relative;
+    bottom: 0;
+  }
+form{
+    max-width: 50%;
+    margin: auto;
+}
+
+p{
+    text-align: justify;
+}
